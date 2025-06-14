@@ -2,7 +2,7 @@
 
 | Column Name                                          | Description                                                                 |
 |------------------------------------------------------|-----------------------------------------------------------------------------|
-| `VIN (1-10)`                                         | First 10 characters of the Vehicle Identification Number. Serves as a unique identifier for vehicles. |
+| `VIN (1-10)`                                         | First 10 characters of the Vehicle Identification Number. Serves as a unique identifier.
 | `County`                                             | County in which the vehicle is registered.                                 |
 | `City`                                               | City in which the vehicle is registered.                                   |
 | `State`                                              | State abbreviation (e.g., WA for Washington).                              |
