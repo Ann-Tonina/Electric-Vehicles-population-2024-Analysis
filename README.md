@@ -84,19 +84,25 @@ Visualization:
    cd your-repository-directory
 
 2. Install the dependencies:
-python -m pip install --upgrade pip
- Ensure pip is up to date:
+
+   python -m pip install --upgrade pip
+
+   Ensure pip is up to date:
  
-Install project dependencies
- pip install -r requirements.txt
+  Install project dependencies
+
+   pip install -r requirements.txt
 
 3. Launch Jupyter Notebook:
-Run the following command to open the project in Jupyter Notebook:
- jupyter notebook index.ipynb
 
-Run the cells sequentially to reproduce the analysis and results.
+   Run the following command to open the project in Jupyter Notebook:
+
+   jupyter notebook index.ipynb
+
+   Run the cells sequentially to reproduce the analysis and results.
 
 🔍 Data Understanding
+
 Top EV Manufacturers: Tesla dominates the market, followed by Chevrolet and Nissan.
 
 Popular Models: Tesla Model 3 and Model Y are the most registered models.
