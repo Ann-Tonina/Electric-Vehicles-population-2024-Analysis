@@ -88,8 +88,8 @@ Visualization:
    python -m pip install --upgrade pip
 
    Ensure pip is up to date:
- 
-  Install project dependencies
+  
+   Install project dependencies
 
    pip install -r requirements.txt
 
